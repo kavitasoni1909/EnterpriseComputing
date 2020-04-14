@@ -1,7 +1,5 @@
 Project Title: Heart Disease Prediction and Analysis
 
-Project Members: Suman K Batra, Kavita Soni, Japjeet Singh
-
 This is Enterprise Computing Project. It demonstrates the use of Web service, Stateless EJB and Weka.
 This project strives to understand various traits to predict if a person is likely to have a heart disease or not.
 
