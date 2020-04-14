@@ -23,6 +23,8 @@ A .war file should be deployed on the server to access the web user interface.
 
 Sample inputs:
 age, sex, chestPain, trestbps, cholestrol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal
+
 59,  male, 	 0, 		110, 		239, 	0, 		0, 		142, 	1, 		1, 		1, 	  1, 	3 : Predicts No heart disease
+
 56,	 female, 1,			140,		294,	0,		0,		153,	0,		1,		1,	  0,	2 : Predicts Possibility of heart disease
 
