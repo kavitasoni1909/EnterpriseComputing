@@ -15,16 +15,6 @@ Components of project:
 
 4. Machine Learning Module
    Technologies used : WEKA
-   
-5. Data Exploration and Analysis in Python
-
-6. Different Machine Learning Model Comparison in Python
-
-7. Detailed report of the project
-
-8. Project presentation
-
-9. Project Proposal
 
 Deployment of Project:
 
